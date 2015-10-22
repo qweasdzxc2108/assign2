@@ -79,8 +79,8 @@ void draw() {
        if(fighterX >= 590){
          fighterX = 590;
        }
-       if(fighterX <= 50){
-         fighterX = 50;
+       if(fighterX <= 0){
+         fighterX = 0;
        }
        if(fighterY >= 430){
          fighterY = 430;
